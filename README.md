@@ -23,3 +23,7 @@ Calcula o montante total acumulado ao final do período com aportes mensais cons
 * **Fórmula utilizada:**
   ```excel
   =VF(Taxa_Mensal; Qntd_anos * 12; Investimento_Mensal * -1)
+## 📷 Screenshots / Evidências da Ferramenta
+
+![Simulação Perfil Moderado](print-moderado.png)
+![Simulação Perfil Agressivo](print-agressivo.png)
